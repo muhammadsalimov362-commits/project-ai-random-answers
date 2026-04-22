@@ -39,5 +39,5 @@ while True:
         break
     else:
         Answers = ["Hi", "Hello", "How are you?", "I'm fine", "Good", "Bad", "What's your name?", "My name is AI", "I'm AI", "earth is planet", f"{user_name}", "siuuuuu", "mykha", f"{count} messages", f"{count} messages???!?!!?!? What do you doing?!?!? why??!", "Why??!?!?!?!", f"{user_name}! What do you doing here?!", f"{user_name}! {count} messages!!! You a crazy?!?!"]
-        print("Ai: random.choice(Answers))")
+        print("Ai:", random.choice(Answers))
 
