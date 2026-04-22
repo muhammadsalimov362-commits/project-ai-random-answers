@@ -1,2 +1,14 @@
 # project-ai-random-answers
-🚀 Projects by an 11-year-old Python dev. Started Feb 2026. Includes: 🤖 MYXA AI (offline assistant), 🧠 AI Hub (neural chat), 🎮 Game Hub (5 games), 🚀 Space Runner (arcade). A digital time capsule for my teacher in 2029. Never give up!
+Hello World! 👋 This is an AI. He's useless, but funny. :)  
+This version has bugs. 🐛  
+This project is **Exclusively for GitHub**.
+
+**What he can do:**
+- 💾 Save your name in JSON
+- 📊 Count your messages
+
+...and that's it. 😄
+
+Enjoy!  
+And if you like this — click the ⭐ **Star**! It gives me motivation to make other projects.  
+Thanks for stopping by! 🚀
